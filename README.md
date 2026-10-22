@@ -1,4 +1,6 @@
-💸 App de Organização de Finanças Pessoais com Vibe Coding
+# Minha Carteira
+
+Aplicativo de Finanças Pessoais criado com Vibe Coding utilizando GitHub Copilot e Lovable.
 
 PRD refinado no Copilot Web:
 
@@ -376,14 +378,40 @@ O projeto foi concebido com foco em:
 
 O Minha Carteira transforma o gerenciamento financeiro em uma experiência natural, acessível e fácil de manter no dia a dia.
 
+## Demonstração
+
+Aplicação publicada:
+
+https://finances-organization.lovable.app/
+
+## Ferramentas Utilizadas
+
+- GitHub
+- GitHub Copilot
+- Lovable
+- Markdown
+- Inteligência Artificial Generativa
+
 ## Reflexão
 
 ### O que funcionou bem?
 
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable são limitados.
+O refinamento do PRD previamente realizado no Copilot foi fundamental para a construção do projeto. Como o Lovable possui uma quantidade limitada de créditos gratuitos, chegar à ferramenta com requisitos mais claros e bem estruturados ajudou a obter resultados melhores logo nas primeiras interações.
+
+Além disso, a combinação entre PRD, prompts objetivos e iterações simples permitiu transformar uma ideia em um protótipo funcional de forma rápida e eficiente.
 
 ### O que não funcionou como esperado?
-Esperava poder interagir mais vezes gratuitamentee com o Lovable, mas as interações feitas ja foram de grande valia para aprender mais sobre Vibe Coding.
 
-### O que aprendeu sobre conversar com IAs?
-Aprendi que é basicmanete igual a conversar com uma pessoa, quanto mais detalhes e clareza você dá, melhor é a interação.
+Eu esperava poder realizar mais interações gratuitas com o Lovable para explorar novas funcionalidades e fazer mais ajustes no projeto.
+
+Mesmo com essa limitação, as interações disponíveis foram suficientes para compreender o potencial da ferramenta e aprender mais sobre o processo de Vibe Coding.
+
+### O que aprendi sobre conversar com IAs?
+
+Aprendi que a qualidade dos resultados depende diretamente da clareza das instruções fornecidas.
+
+Quanto mais contexto, objetivos e detalhes relevantes são apresentados, melhores tendem a ser as respostas geradas pela IA.
+
+Também percebi que o processo é muito parecido com uma conversa entre pessoas: é necessário explicar o problema de forma clara, fornecer contexto e orientar a solução desejada.
+
+Por fim, entendi que ferramentas de Vibe Coding permitem transformar ideias em protótipos funcionais rapidamente, tornando o desenvolvimento de produtos mais acessível mesmo para quem ainda está aprendendo conceitos de programação e produto.
